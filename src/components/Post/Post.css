@@ -1,0 +1,33 @@
+.body-color {
+    margin: auto;
+    background-color: rgb(233, 185, 233);
+}
+
+#post-body{
+margin-left: 39px;
+ margin-right: 20px;
+ margin-bottom: 14px;
+ padding:10px;
+background-color: rgb(77, 68, 204);
+border: 3px solid tomato;
+border-radius: 20px;
+width: 25%;
+height: 200px;
+color: whitesmoke;
+float: left;
+}
+
+.more-button{
+    width: 50%;
+    background-color: tomato;
+    border: 1px solid red;
+    border-radius: 5px;
+    text-align: center;
+    color: wheat important!;
+    text-decoration: none;
+    
+}
+.more-button:hover {
+    background-color: whitesmoke;
+    color: black;
+}

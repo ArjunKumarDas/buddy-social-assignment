@@ -1,0 +1,12 @@
+.comment-body{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    padding: 30px;
+    background-color: rgb(0, 125, 197);
+    border: 3px solid tomato;
+    
+    border-top-right-radius: 130px;
+    border-bottom-left-radius: 90px;
+    color: white;
+}
